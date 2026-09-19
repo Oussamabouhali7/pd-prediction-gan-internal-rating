@@ -280,12 +280,7 @@ The integration of **Machine Learning and GAN-based synthetic data generation** 
 
 ---
 
-## 👨‍💻 Author
 
-**Oussama Bouhali**
-
-**Final Year Engineering Project (PFE)**
-**Quantylix — Part of the PwC Network**
 
 ### Areas of Focus
 
