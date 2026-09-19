@@ -4,7 +4,7 @@
 
 This project focuses on predicting the **Probability of Default (PD)** using **internal credit ratings** and Machine Learning techniques.
 
-Developed as part of a **Final Year Engineering Project (PFE)** at **Quantylix, part of the PwC network**, the project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** methodology, covering the complete data science lifecycle from business understanding to model deployment.
+The project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** methodology, covering the complete data science lifecycle from business understanding to model deployment.
 
 A major challenge addressed in this project is the **class imbalance between default and non-default clients**. To overcome this issue, a **Generative Adversarial Network (GAN)** is used to generate synthetic observations and rebalance the dataset before training the PD prediction models.
 
